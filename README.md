@@ -3,8 +3,8 @@
 ## Sistema para la Administración de Red de Frío y Vacinación CCVMS
 
 [![Build Status](https://travis-ci.org/EL-BID/ccvms.svg?branch=master)](https://travis-ci.org/EL-BID/ccvms)
-[![Analytics](https://gabeacon.irvinlim.com/UA-4677001-16/ccvms/readme?useReferer)](https://github.com/EL-BID/ccvms)
-
+![analytics image (flat)](https://raw.githubusercontent.com/vitr/google-analytics-beacon/master/static/badge-flat.gif)
+![analytics](https://www.google-analytics.com/collect?v=1&cid=555&t=pageview&ec=repo&ea=open&dp=/ccvms/readme&dt=&tid=UA-4677001-16)
 
 ### Descripción y contexto
 ---
