@@ -8,7 +8,7 @@
         "php": ">=5.5.9",
         "laravel/framework": "5.1.*",
         "laravelcollective/html": "5.1.*",
-        "rap2hpoutre/laravel-log-viewer": "^0.6.1",
+        "rap2hpoutre/laravel-log-viewer": "^0.13.0",
         "intervention/image": "^2.3",
         "edvinaskrucas/notification": "5.*",
 		"bican/roles": "2.1.*",        	
